@@ -1,0 +1,638 @@
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.exe.config
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.exe
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.pdb
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.exe
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.pdb
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Data.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Office.v16.1.Core.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Data.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Office.v16.1.Core.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.csprojResolveAssemblyReference.cache
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmChungChiTinHoc.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmLoaiQuyetDinh.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmMoiQuanHe.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTamUng.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.frmMainForm.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmBangCap.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmBoPhan.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmChungChiNgoaiNgu.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmDanToc.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmLoaiHopDong.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTinhThanh.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTonGiao.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.frmDangNhap.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmDoiMatKhau.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmPhanQuyenNguoiDung.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmPhucHoiDuLieu.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmQuanLyNguoiDung.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmSaoLuuDuLieu.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmBanKeLuong.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmChamCong.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmChiTietTamUng.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmDanhGiaHieuSuat.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmKhenThuongKiLuat.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVien.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVienBoPhan.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVienChucDanh.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmQuanLiNhanThan.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmHoSoNV.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.Properties.Resources.resources
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.csproj.GenerateResource.Cache
+E:\DoAnTotNghiepK55\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.exe.licenses
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.exe.config
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.exe
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.pdb
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.CodeParser.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Data.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.DataAccess.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Office.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.PivotGrid.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Utils.v16.1.UI.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Xpo.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraCharts.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraGauges.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraReports.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Data.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.DataAccess.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Office.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Xpo.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraReports.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoBangCapChungChi.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoChamCong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoChiTietTamUng.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoHoSoMotNV.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoHoSoNV.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoKhenThuongKyLuat.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoHopDongHetHan.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoLuongHangThang.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoBangCapChungChi.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoChamCongcs.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoChiTietTamUng.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoHopDongSapHetHan.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoHoSoMotNV.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoHoSoNV.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoKTKL.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoLuongHangThang.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmMauHopDongLaoDong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmThongKeDanhGiaNhanVien.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmThongKeHopDongHetHan.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmThongkeSLLaoDong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.MauHopDongLaoDong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.ThongKeDanhGiaNhanVien.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.ThongKeHopDongHetHan.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.ThongKeSLLaoDong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmChungChiTinHoc.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmLoaiQuyetDinh.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmMoiQuanHe.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTamUng.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.frmMainForm.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmBangCap.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmBoPhan.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmChungChiNgoaiNgu.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmDanToc.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmLoaiHopDong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTinhThanh.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTonGiao.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmDangNhap.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmDoiMatKhau.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmPhanQuyenNguoiDung.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmPhucHoiDuLieu.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmQuanLyNguoiDung.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmSaoLuuDuLieu.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmBanKeLuong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmChamCong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmChiTietTamUng.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmDanhGiaHieuSuat.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmHopDong.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmKhenThuongKiLuat.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmLuongChucDanh.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVien.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVienBoPhan.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVienChucDanh.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmQuanLyNhanThan.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmHoSoNV.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.PrintRibbonControllerResources.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.Properties.Resources.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.XRDesignRibbonControllerResources.resources
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.csproj.GenerateResource.Cache
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.exe.licenses
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.exe
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.pdb
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1021.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1022.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1023.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1024.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1025.JPG
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1026.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1027.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1028.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1029.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1031.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1032.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1033.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1034.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1035.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1036.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1037.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1038.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1039.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1040.jpg
+E:\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh2.jpg
+E:\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.csprojResolveAssemblyReference.cache
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.csproj.AssemblyReference.cache
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoBangCapChungChi.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoChamCong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoChiTietTamUng.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoHoSoMotNV.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoHoSoNV.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoKhenThuongKyLuat.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoHopDongHetHan.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.BaoCaoLuongHangThang.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoBangCapChungChi.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoChamCongcs.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoChiTietTamUng.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoHopDongSapHetHan.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoHoSoMotNV.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoHoSoNV.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoKTKL.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmBaoCaoLuongHangThang.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmMauHopDongLaoDong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmThongKeDanhGiaNhanVien.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmThongKeHopDongHetHan.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.frmThongkeSLLaoDong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.MauHopDongLaoDong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.ThongKeDanhGiaNhanVien.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.ThongKeHopDongHetHan.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.BaoCao.ThongKeSLLaoDong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmChungChiTinHoc.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmLoaiQuyetDinh.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmMoiQuanHe.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTamUng.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.frmMainForm.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmBangCap.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmBoPhan.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmChungChiNgoaiNgu.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmDanToc.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmLoaiHopDong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTinhThanh.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.DanhMuc.frmTonGiao.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmDangNhap.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmDoiMatKhau.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmPhanQuyenNguoiDung.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmPhucHoiDuLieu.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmQuanLyNguoiDung.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.HeThong.frmSaoLuuDuLieu.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmBanKeLuong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmChamCong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmChiTietTamUng.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmDanhGiaHieuSuat.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmHopDong.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmKhenThuongKiLuat.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmLuongChucDanh.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVien.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVienBoPhan.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmNhanVienChucDanh.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmQuanLyNhanThan.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.NghiepVu.frmHoSoNV.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.PrintRibbonControllerResources.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.Properties.Resources.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.XRDesignRibbonControllerResources.resources
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.csproj.GenerateResource.cache
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.exe
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.pdb
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1021.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1022.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1023.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1024.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1025.JPG
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1026.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1027.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1028.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1029.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1031.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1032.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1033.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1034.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1035.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1036.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1037.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1038.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1039.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh1040.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\AnhHSNV\Anh2.jpg
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.exe.config
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.exe
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\HRM_VTHP.pdb
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.DataAccess.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Xpo.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraReports.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.csproj.CoreCompileInputs.cache
+D:\Draft\New folder\C#\DATN_SourceCode\HRM_VTHP\obj\Debug\HRM_VTHP.exe.licenses
