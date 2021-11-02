@@ -60,7 +60,7 @@
             // txtTenDangNhap
             // 
             this.txtTenDangNhap.Location = new System.Drawing.Point(428, 28);
-            this.txtTenDangNhap.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTenDangNhap.Margin = new System.Windows.Forms.Padding(4);
             this.txtTenDangNhap.Name = "txtTenDangNhap";
             this.txtTenDangNhap.Size = new System.Drawing.Size(216, 22);
             this.txtTenDangNhap.TabIndex = 1;
@@ -68,7 +68,7 @@
             // txtMatKhauCu
             // 
             this.txtMatKhauCu.Location = new System.Drawing.Point(428, 87);
-            this.txtMatKhauCu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtMatKhauCu.Margin = new System.Windows.Forms.Padding(4);
             this.txtMatKhauCu.Name = "txtMatKhauCu";
             this.txtMatKhauCu.Size = new System.Drawing.Size(216, 22);
             this.txtMatKhauCu.TabIndex = 3;
@@ -87,7 +87,7 @@
             // txtMatKhauMoi
             // 
             this.txtMatKhauMoi.Location = new System.Drawing.Point(428, 145);
-            this.txtMatKhauMoi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtMatKhauMoi.Margin = new System.Windows.Forms.Padding(4);
             this.txtMatKhauMoi.Name = "txtMatKhauMoi";
             this.txtMatKhauMoi.Size = new System.Drawing.Size(216, 22);
             this.txtMatKhauMoi.TabIndex = 5;
@@ -106,7 +106,7 @@
             // txtNhapLai
             // 
             this.txtNhapLai.Location = new System.Drawing.Point(428, 203);
-            this.txtNhapLai.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNhapLai.Margin = new System.Windows.Forms.Padding(4);
             this.txtNhapLai.Name = "txtNhapLai";
             this.txtNhapLai.Size = new System.Drawing.Size(216, 22);
             this.txtNhapLai.TabIndex = 7;
@@ -127,7 +127,7 @@
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(16, 36);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(189, 191);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -138,7 +138,7 @@
             // 
             this.btnThoat.Image = ((System.Drawing.Image)(resources.GetObject("btnThoat.Image")));
             this.btnThoat.Location = new System.Drawing.Point(484, 276);
-            this.btnThoat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(161, 41);
             this.btnThoat.TabIndex = 9;
@@ -149,7 +149,7 @@
             // 
             this.btnXacNhan.Image = ((System.Drawing.Image)(resources.GetObject("btnXacNhan.Image")));
             this.btnXacNhan.Location = new System.Drawing.Point(288, 276);
-            this.btnXacNhan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnXacNhan.Margin = new System.Windows.Forms.Padding(4);
             this.btnXacNhan.Name = "btnXacNhan";
             this.btnXacNhan.Size = new System.Drawing.Size(161, 41);
             this.btnXacNhan.TabIndex = 8;
@@ -177,7 +177,7 @@
             this.Controls.Add(this.txtTenDangNhap);
             this.Controls.Add(this.lblTenDangNhap);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmDoiMatKhau";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DOI MAT KHAU";

@@ -25,6 +25,17 @@ namespace QLNSTL.BaoCao
             cbbDonVi.DataSource = dt;
             cbbDonVi.DisplayMember = "TenBoPhan";
             cbbDonVi.ValueMember = "BoPhanID";
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+            src = dt
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("BoPhanID"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cbbDonVi.DroppedDown = true;
+            this.cbbDonVi.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cbbDonVi.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cbbDonVi.AutoCompleteCustomSource = data;
 
             LayDanhSachNV();
         }
@@ -40,7 +51,18 @@ namespace QLNSTL.BaoCao
             cbbNhanVien.DataSource = dt;
             cbbNhanVien.DisplayMember = "TenNV";
             cbbNhanVien.ValueMember = "NhanVienID";
-            
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+            src = dt
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("NhanVienID"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cbbNhanVien.DroppedDown = true;
+            this.cbbNhanVien.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cbbNhanVien.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cbbNhanVien.AutoCompleteCustomSource = data;
+
         }
 
         private void cbbDonVi_SelectedIndexChanged(object sender, EventArgs e)

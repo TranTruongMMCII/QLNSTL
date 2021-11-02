@@ -44,6 +44,17 @@ namespace QLNSTL.BaoCao
             cmbTenBoPhan.DataSource = dt;
             cmbTenBoPhan.ValueMember = "BoPhanID";
             cmbTenBoPhan.DisplayMember = "TenBoPhan";
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+            src = dt
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBoPhan"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cmbTenBoPhan.DroppedDown = true;
+            this.cmbTenBoPhan.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbTenBoPhan.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbTenBoPhan.AutoCompleteCustomSource = data;
         }
     }
 }

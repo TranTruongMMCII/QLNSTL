@@ -57,11 +57,31 @@ namespace QLNSTL.BaoCao
             cmbTenBoPhan.DataSource = dt;
             cmbTenBoPhan.ValueMember = "BoPhanID";
             cmbTenBoPhan.DisplayMember = "TenBoPhan";
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+            src = dt
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBoPhan"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cmbTenBoPhan.DroppedDown = true;
+            this.cmbTenBoPhan.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbTenBoPhan.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbTenBoPhan.AutoCompleteCustomSource = data;
             sql = "Select *from TamUng";
             DataTable dt1 = Core.Core.GetData(sql);
             cmbTenLoaiTamUng.DataSource = dt1;
             cmbTenLoaiTamUng.ValueMember = "TamUngID";
             cmbTenLoaiTamUng.DisplayMember = "TenTamUng";
+            src = dt1
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenTamUng"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cmbTenLoaiTamUng.DroppedDown = true;
+            this.cmbTenLoaiTamUng.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbTenLoaiTamUng.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbTenLoaiTamUng.AutoCompleteCustomSource = data;
         }
     }
 }

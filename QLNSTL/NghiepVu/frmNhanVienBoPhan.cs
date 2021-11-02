@@ -44,16 +44,37 @@ namespace QLNSTL.NghiepVu
         {
             Load_DL();
             Reset();
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
             string sql = "Select * from NhanVien";
             DataTable dt = Core.Core.GetData(sql);
             cmbTenNV.DataSource = dt;
             cmbTenNV.ValueMember = "NhanVienID";
             cmbTenNV.DisplayMember = "TenNV";
+            src = dt
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenNV"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cmbTenNV.DroppedDown = true;
+            this.cmbTenNV.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbTenNV.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbTenNV.AutoCompleteCustomSource = data;
+
             sql = "Select * from BoPhan";
             DataTable dt1 = Core.Core.GetData(sql);
             cmbBoPhan.DataSource = dt1;
             cmbBoPhan.ValueMember = "BoPhanID";
             cmbBoPhan.DisplayMember = "TenBoPhan";
+            src = dt1
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBoPhan"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cmbBoPhan.DroppedDown = true;
+            this.cmbBoPhan.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbBoPhan.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbBoPhan.AutoCompleteCustomSource = data;
         }
 
         private void btnThem_Click(object sender, EventArgs e)

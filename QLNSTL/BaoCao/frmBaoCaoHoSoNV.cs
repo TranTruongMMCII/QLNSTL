@@ -52,6 +52,18 @@ namespace QLNSTL.BaoCao
             cmbDonVi.DisplayMember = "TenBoPhan";
             cmbDonVi.SelectedIndex = 0;
 
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+            src = dt
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBoPhan"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cmbDonVi.DroppedDown = true;
+            this.cmbDonVi.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbDonVi.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbDonVi.AutoCompleteCustomSource = data;
+
             LoadBaoCao();
         }
     }

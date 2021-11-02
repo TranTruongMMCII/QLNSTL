@@ -150,7 +150,6 @@
             this.btnBCSoLuongLD,
             this.btnBCKTKL,
             this.btnNgayNP,
-            this.btnBCDanhGiaNV,
             this.btnBCHopDongHetHan,
             this.barButtonItem12,
             this.btnBKL,
@@ -706,7 +705,6 @@
             this.rpgTKBC.ItemLinks.Add(this.btnBCTamUngHoanUng);
             this.rpgTKBC.ItemLinks.Add(this.btnBCSoLuongLD);
             this.rpgTKBC.ItemLinks.Add(this.btnBCKTKL);
-            this.rpgTKBC.ItemLinks.Add(this.btnBCDanhGiaNV);
             this.rpgTKBC.ItemLinks.Add(this.btnBCHopDongHetHan);
             this.rpgTKBC.ItemLinks.Add(this.btnMauHopDong);
             this.rpgTKBC.ItemLinks.Add(this.btnHoSoMotNV);

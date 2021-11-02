@@ -128,43 +128,104 @@ namespace QLNSTL.NghiepVu
 
         private void frmHoSoNV_Load(object sender, EventArgs e)
         {
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
             string sql = "Select * from DanToc";
             DataTable dt1 = Core.Core.GetData(sql);
             cmbDanToc.DataSource = dt1;
             cmbDanToc.ValueMember = "DanTocID";
             cmbDanToc.DisplayMember = "TenDanToc";
+            src = dt1
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenDanToc"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbDanToc.DroppedDown = true;
+            this.cmbDanToc.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbDanToc.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbDanToc.AutoCompleteCustomSource = data;
+
             sql = "Select * from TonGiao";
             DataTable dt2 = Core.Core.GetData(sql);
             cmbTonGiao.DataSource = dt2;
             cmbTonGiao.ValueMember = "TonGiaoID";
             cmbTonGiao.DisplayMember = "TenTonGiao";
+            src = dt2
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenTonGiao"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbTonGiao.DroppedDown = true;
+            this.cmbTonGiao.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbTonGiao.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbTonGiao.AutoCompleteCustomSource = data;
+
             sql = "Select * from TinhThanh";
             DataTable dt3 = Core.Core.GetData(sql);
             cmbTinhThanh.DataSource = dt3;
             cmbTinhThanh.ValueMember = "TinhThanhID";
             cmbTinhThanh.DisplayMember = "TenTinhThanh";
+            src = dt3
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenTinhThanh"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbTinhThanh.DroppedDown = true;
+            this.cmbTinhThanh.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbTinhThanh.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbTinhThanh.AutoCompleteCustomSource = data;
+
             sql = "Select * from NgoaiNgu";
             DataTable dt4 = Core.Core.GetData(sql);
             cmbNgoaiNgu.DataSource = dt4;
             cmbNgoaiNgu.ValueMember = "NgoaiNguID";
             cmbNgoaiNgu.DisplayMember = "TenCCNN";
+            src = dt4
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenCCNN"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbNgoaiNgu.DroppedDown = true;
+            this.cmbNgoaiNgu.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbNgoaiNgu.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbNgoaiNgu.AutoCompleteCustomSource = data;
+
             sql = "Select * from TinHoc";
             DataTable dt5 = Core.Core.GetData(sql);
             cmbTinHoc.DataSource = dt5;
             cmbTinHoc.ValueMember = "TinHocID";
             cmbTinHoc.DisplayMember = "TenCCTH";
+            src = dt5
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenCCTH"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbTinHoc.DroppedDown = true;
+            this.cmbTinHoc.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbTinHoc.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbTinHoc.AutoCompleteCustomSource = data;
+
             sql = "Select * from BangCap";
             DataTable dt6 = Core.Core.GetData(sql);
             cmbBangCap.DataSource = dt6;
             cmbBangCap.ValueMember = "BangCapID";
             cmbBangCap.DisplayMember = "TenBangCap";
+            src = dt6
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBangCap"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbBangCap.DroppedDown = true;
+            this.cmbBangCap.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbBangCap.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbBangCap.AutoCompleteCustomSource = data;
+
             sql = "Select * from NhanVien";
             DataTable dt7 = Core.Core.GetData(sql);
             cmbTenNV.DataSource = dt7;
             cmbTenNV.ValueMember = "NhanVienID";
             cmbTenNV.DisplayMember = "TenNV";
-            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
-            string[] src = dt7
+            src = dt7
                     .AsEnumerable()
                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenNV"))
                     .ToArray();

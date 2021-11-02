@@ -43,11 +43,23 @@ namespace QLNSTL.HeThong
 
         private void frmQuanLyNguoiDung_Load(object sender, EventArgs e)
         {
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
             string sql = "Select * from BoPhan";
             DataTable dt = Core.Core.GetData(sql);
             cmbBoPhan.DataSource = dt;
             cmbBoPhan.ValueMember = "BoPhanID";
             cmbBoPhan.DisplayMember = "TenBoPhan";
+            src = dt
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBoPhan"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cmbBoPhan.DroppedDown = true;
+            this.cmbBoPhan.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbBoPhan.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbBoPhan.AutoCompleteCustomSource = data;
+            cmbBoPhan.SelectedIndex = 0;
             Load_DL();
             Reset();
         }
@@ -86,12 +98,23 @@ namespace QLNSTL.HeThong
 
         private void cmbBoPhan_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string BoPhanID = cmbBoPhan.SelectedValue.ToString();
+            string BoPhanID = Convert.ToString(((DataRowView)cmbBoPhan.SelectedItem).Row["BoPhanID"]);
             string sql = "select a.NhanVienID, a.TenNV from NhanVien a INNER JOIN NhanVienBoPhan b on a.NhanVienID = b.NhanVienID and b.BoPhanID = '" + BoPhanID + "'";
             DataTable dtNhanVien = Core.Core.GetData(sql);
             cmbNhanVien.DataSource = dtNhanVien;
             cmbNhanVien.ValueMember = "NhanVienID";
             cmbNhanVien.DisplayMember = "TenNV";
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+            src = dtNhanVien
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenNV"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cmbNhanVien.DroppedDown = true;
+            this.cmbNhanVien.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbNhanVien.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbNhanVien.AutoCompleteCustomSource = data;
         }
 
         private void btnHuyBo_Click(object sender, EventArgs e)

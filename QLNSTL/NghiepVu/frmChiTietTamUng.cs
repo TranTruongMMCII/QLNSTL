@@ -54,26 +54,60 @@ namespace QLNSTL.NghiepVu
         {
             Load_DL();
             Reset();
+
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+
             string sql = "Select * from TamUng";
             DataTable dtTamUng = Core.Core.GetData(sql);
             cmbLoaiTamUng.DataSource = dtTamUng;
             cmbLoaiTamUng.ValueMember = "TamUngID";
             cmbLoaiTamUng.DisplayMember = "TenTamUng";
+            src = dtTamUng
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenTamUng"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbLoaiTamUng.DroppedDown = true;
+            this.cmbLoaiTamUng.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbLoaiTamUng.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbLoaiTamUng.AutoCompleteCustomSource = data;
+
             sql = "Select * from BoPhan";
             DataTable dt = Core.Core.GetData(sql);
             cmbBoPhan.DataSource = dt;
             cmbBoPhan.ValueMember = "BoPhanID";
             cmbBoPhan.DisplayMember = "TenBoPhan";
+            src = dt
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBoPhan"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbBoPhan.DroppedDown = true;
+            this.cmbBoPhan.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbBoPhan.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbBoPhan.AutoCompleteCustomSource = data;
         }
 
         private void cmbBoPhan_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string BoPhanID = cmbBoPhan.SelectedValue.ToString();
+            string BoPhanID = Convert.ToString(((DataRowView)cmbBoPhan.SelectedItem).Row["BoPhanID"]);
             string sql = "select a.NhanVienID, a.TenNV from NhanVien a INNER JOIN NhanVienBoPhan b on a.NhanVienID = b.NhanVienID and b.BoPhanID = '" + BoPhanID + "'";
             DataTable dtNhanVien = Core.Core.GetData(sql);
             cmbNhanVien.DataSource = dtNhanVien;
             cmbNhanVien.ValueMember = "NhanVienID";
             cmbNhanVien.DisplayMember = "TenNV";
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+            src = dtNhanVien
+                    .AsEnumerable()
+                    .Select<System.Data.DataRow, String>(x => x.Field<String>("TenNV"))
+                    .ToArray();
+            data.AddRange(src);
+            this.cmbNhanVien.DroppedDown = true;
+            this.cmbNhanVien.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cmbNhanVien.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cmbNhanVien.AutoCompleteCustomSource = data;
         }
 
         private void btnThem_Click(object sender, EventArgs e)

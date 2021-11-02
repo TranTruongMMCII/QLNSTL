@@ -50,11 +50,6 @@ namespace QLNSTL.NghiepVu
             this.lbMaNV = new System.Windows.Forms.Label();
             this.btnXoa = new DevExpress.XtraEditors.SimpleButton();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.grdHoSoNhanVien = new DevExpress.XtraGrid.GridControl();
-            this.btnHuybo = new DevExpress.XtraEditors.SimpleButton();
-            this.btnCapNhat = new DevExpress.XtraEditors.SimpleButton();
-            this.btnSua = new DevExpress.XtraEditors.SimpleButton();
-            this.btnThem = new DevExpress.XtraEditors.SimpleButton();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -64,6 +59,11 @@ namespace QLNSTL.NghiepVu
             this.gridColumn7 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn8 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn9 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.grdHoSoNhanVien = new DevExpress.XtraGrid.GridControl();
+            this.btnHuybo = new DevExpress.XtraEditors.SimpleButton();
+            this.btnCapNhat = new DevExpress.XtraEditors.SimpleButton();
+            this.btnSua = new DevExpress.XtraEditors.SimpleButton();
+            this.btnThem = new DevExpress.XtraEditors.SimpleButton();
             this.grbThongTin.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.grdHoSoNhanVien)).BeginInit();
@@ -291,60 +291,6 @@ namespace QLNSTL.NghiepVu
             this.gridView1.OptionsView.ShowGroupPanel = false;
             this.gridView1.RowClick += new DevExpress.XtraGrid.Views.Grid.RowClickEventHandler(this.gridView1_RowClick);
             // 
-            // grdHoSoNhanVien
-            // 
-            this.grdHoSoNhanVien.Location = new System.Drawing.Point(-4, 274);
-            this.grdHoSoNhanVien.MainView = this.gridView1;
-            this.grdHoSoNhanVien.Name = "grdHoSoNhanVien";
-            this.grdHoSoNhanVien.Size = new System.Drawing.Size(740, 221);
-            this.grdHoSoNhanVien.TabIndex = 14;
-            this.grdHoSoNhanVien.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.gridView1});
-            // 
-            // btnHuybo
-            // 
-            this.btnHuybo.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnHuybo.Appearance.Options.UseFont = true;
-            this.btnHuybo.Location = new System.Drawing.Point(465, 216);
-            this.btnHuybo.Name = "btnHuybo";
-            this.btnHuybo.Size = new System.Drawing.Size(119, 32);
-            this.btnHuybo.TabIndex = 13;
-            this.btnHuybo.Text = "Hủy bỏ";
-            this.btnHuybo.Click += new System.EventHandler(this.btnHuybo_Click);
-            // 
-            // btnCapNhat
-            // 
-            this.btnCapNhat.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCapNhat.Appearance.Options.UseFont = true;
-            this.btnCapNhat.Location = new System.Drawing.Point(313, 216);
-            this.btnCapNhat.Name = "btnCapNhat";
-            this.btnCapNhat.Size = new System.Drawing.Size(119, 32);
-            this.btnCapNhat.TabIndex = 11;
-            this.btnCapNhat.Text = "Cập nhật";
-            this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
-            // 
-            // btnSua
-            // 
-            this.btnSua.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSua.Appearance.Options.UseFont = true;
-            this.btnSua.Location = new System.Drawing.Point(161, 216);
-            this.btnSua.Name = "btnSua";
-            this.btnSua.Size = new System.Drawing.Size(119, 32);
-            this.btnSua.TabIndex = 10;
-            this.btnSua.Text = "Sửa";
-            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
-            // 
-            // btnThem
-            // 
-            this.btnThem.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnThem.Appearance.Options.UseFont = true;
-            this.btnThem.Location = new System.Drawing.Point(9, 216);
-            this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(119, 32);
-            this.btnThem.TabIndex = 9;
-            this.btnThem.Text = "Thêm";
-            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
-            // 
             // gridColumn1
             // 
             this.gridColumn1.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold);
@@ -469,6 +415,60 @@ namespace QLNSTL.NghiepVu
             this.gridColumn9.Visible = true;
             this.gridColumn9.VisibleIndex = 8;
             this.gridColumn9.Width = 80;
+            // 
+            // grdHoSoNhanVien
+            // 
+            this.grdHoSoNhanVien.Location = new System.Drawing.Point(-4, 274);
+            this.grdHoSoNhanVien.MainView = this.gridView1;
+            this.grdHoSoNhanVien.Name = "grdHoSoNhanVien";
+            this.grdHoSoNhanVien.Size = new System.Drawing.Size(740, 221);
+            this.grdHoSoNhanVien.TabIndex = 14;
+            this.grdHoSoNhanVien.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.gridView1});
+            // 
+            // btnHuybo
+            // 
+            this.btnHuybo.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHuybo.Appearance.Options.UseFont = true;
+            this.btnHuybo.Location = new System.Drawing.Point(465, 216);
+            this.btnHuybo.Name = "btnHuybo";
+            this.btnHuybo.Size = new System.Drawing.Size(119, 32);
+            this.btnHuybo.TabIndex = 13;
+            this.btnHuybo.Text = "Hủy bỏ";
+            this.btnHuybo.Click += new System.EventHandler(this.btnHuybo_Click);
+            // 
+            // btnCapNhat
+            // 
+            this.btnCapNhat.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCapNhat.Appearance.Options.UseFont = true;
+            this.btnCapNhat.Location = new System.Drawing.Point(313, 216);
+            this.btnCapNhat.Name = "btnCapNhat";
+            this.btnCapNhat.Size = new System.Drawing.Size(119, 32);
+            this.btnCapNhat.TabIndex = 11;
+            this.btnCapNhat.Text = "Cập nhật";
+            this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
+            // 
+            // btnSua
+            // 
+            this.btnSua.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSua.Appearance.Options.UseFont = true;
+            this.btnSua.Location = new System.Drawing.Point(161, 216);
+            this.btnSua.Name = "btnSua";
+            this.btnSua.Size = new System.Drawing.Size(119, 32);
+            this.btnSua.TabIndex = 10;
+            this.btnSua.Text = "Sửa";
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
+            // 
+            // btnThem
+            // 
+            this.btnThem.Appearance.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnThem.Appearance.Options.UseFont = true;
+            this.btnThem.Location = new System.Drawing.Point(9, 216);
+            this.btnThem.Name = "btnThem";
+            this.btnThem.Size = new System.Drawing.Size(119, 32);
+            this.btnThem.TabIndex = 9;
+            this.btnThem.Text = "Thêm";
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // frmHoSoNhanVien
             // 

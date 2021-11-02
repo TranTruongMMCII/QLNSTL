@@ -189,12 +189,6 @@
     <Compile Include="BaoCao\frmMauHopDongLaoDong.Designer.cs">
       <DependentUpon>frmMauHopDongLaoDong.cs</DependentUpon>
     </Compile>
-    <Compile Include="BaoCao\frmThongKeDanhGiaNhanVien.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BaoCao\frmThongKeDanhGiaNhanVien.Designer.cs">
-      <DependentUpon>frmThongKeDanhGiaNhanVien.cs</DependentUpon>
-    </Compile>
     <Compile Include="BaoCao\frmThongKeHopDongHetHan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -484,9 +478,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BaoCao\frmMauHopDongLaoDong.resx">
       <DependentUpon>frmMauHopDongLaoDong.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BaoCao\frmThongKeDanhGiaNhanVien.resx">
-      <DependentUpon>frmThongKeDanhGiaNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="BaoCao\frmThongKeHopDongHetHan.resx">
       <DependentUpon>frmThongKeHopDongHetHan.cs</DependentUpon>

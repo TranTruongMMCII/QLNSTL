@@ -42,7 +42,6 @@ namespace QLNSTL
         frmBaoCaoLuongHangThang frmBCBanKeLuong = null;
         frmBaoCaoChiTietTamUng frmBCTamUng = null;
         frmBaoCaoKTKL frmBCKTKL = null;
-        frmThongKeDanhGiaNhanVien frmBCDanhGia = null;
         frmThongKeHopDongHetHan frmBCHopDong = null;
         frmThongkeSLLaoDong frmBCSoLuongLaoDong = null;
 
@@ -298,8 +297,7 @@ namespace QLNSTL
 
         private void btnBCDanhGiaNV_ItemClick(object sender, ItemClickEventArgs e)
         {
-            var form = new BaoCao.frmThongKeDanhGiaNhanVien();
-            form.ShowDialog();
+
         }
 
         private void btnBCHopDongHetHan_ItemClick(object sender, ItemClickEventArgs e)

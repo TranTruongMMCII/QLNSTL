@@ -15,7 +15,6 @@ D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.BaoCao.frm
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.BaoCao.frmBaoCaoKTKL.resources
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.BaoCao.frmBaoCaoLuongHangThang.resources
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.BaoCao.frmMauHopDongLaoDong.resources
-D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.BaoCao.frmThongKeDanhGiaNhanVien.resources
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.BaoCao.frmThongKeHopDongHetHan.resources
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.BaoCao.frmThongkeSLLaoDong.resources
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.BaoCao.MauHopDongLaoDong.resources
@@ -84,3 +83,4 @@ D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\bin\Debug\QLNSTL.exe
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\bin\Debug\QLNSTL.pdb
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.exe
 D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.pdb
+D:\Draft\New folder\C#\DATN_SourceCode\QLNSTL\QLNSTL\obj\Debug\QLNSTL.csproj.AssemblyReference.cache

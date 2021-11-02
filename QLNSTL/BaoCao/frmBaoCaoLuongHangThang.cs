@@ -66,7 +66,18 @@ namespace QLNSTL.BaoCao
             cbbBoPhan.DataSource = dt;
             cbbBoPhan.ValueMember = "BoPhanID";
             cbbBoPhan.DisplayMember = "TenBoPhan";
-            
+            AutoCompleteStringCollection data = new AutoCompleteStringCollection();
+            string[] src;
+            src = dt
+                     .AsEnumerable()
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBoPhan"))
+                     .ToArray();
+            data.AddRange(src);
+            this.cbbBoPhan.DroppedDown = true;
+            this.cbbBoPhan.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            this.cbbBoPhan.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cbbBoPhan.AutoCompleteCustomSource = data;
+
             LoadBaoCao();
         }
 
