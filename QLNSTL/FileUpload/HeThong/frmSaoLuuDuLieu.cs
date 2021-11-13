@@ -35,7 +35,7 @@ namespace QLNSTL.HeThong
                     lblTenFile.Text = "";
                 }
             }
-            catch (Exception ex)
+            catch (Exception )
             {
 
             }

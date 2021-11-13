@@ -66,7 +66,7 @@ namespace QLNSTL.BaoCao
                 reports.CreateDocument();
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
 
             }

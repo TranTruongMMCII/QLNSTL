@@ -16,35 +16,6 @@ namespace QLNSTL
 {
     public partial class frmMainForm : DevExpress.XtraBars.Ribbon.RibbonForm
     {
-        frmDanToc frmDT = null;
-        frmTonGiao frmTG = null;
-        frmTinhThanh frmTT = null;
-        frmChungChiNgoaiNgu frmNN = null;
-        frmChungChiTinHoc frmTH = null;
-        frmBoPhan frmBP = null;
-        frmBangCap frmBC = null;
-        frmLoaiHopDong frmLHD = null;
-        frmLoaiQuyetDinh frmLQD = null;
-        frmMoiQuanHe frmMQH = null;
-        frmTamUng frmTU = null;
-        frmNhanVien frmNV = null;
-        frmNhanVienBoPhan frmNVBP = null;
-        frmNhanVienChucDanh frmNVCD = null;
-        frmQuanLyNhanThan frmNguoiThan = null;
-        frmHoSoNhanVien frmHSNV = null;
-        frmKhenThuongKiLuat frmKTKL = null;
-        frmLuongChucDanh frmLCD = null;
-        frmDanhGiaHieuSuat frmHieuSuat = null;
-        frmDoiMatKhau frmDMK = null;
-        frmBaoCaoHoSoNV frmBCHSNV = null;
-        frmBaoCaoBangCapChungChi frmBCBangCap = null;
-        frmBaoCaoChamCongcs frmBCChamCong = null;
-        frmBaoCaoLuongHangThang frmBCBanKeLuong = null;
-        frmBaoCaoChiTietTamUng frmBCTamUng = null;
-        frmBaoCaoKTKL frmBCKTKL = null;
-        frmThongKeHopDongHetHan frmBCHopDong = null;
-        frmThongkeSLLaoDong frmBCSoLuongLaoDong = null;
-
         string NguoiDungID;
         public frmMainForm(string NguoiDungID_Login)
         {
@@ -55,13 +26,6 @@ namespace QLNSTL
 
         private void btnDanToc_ItemClick(object sender, ItemClickEventArgs e)
         {
-            //if (frmDT == null || frmDT.IsDisposed)
-            //{
-            //    frmDT = new DanhMuc.frmDanToc();
-            //    frmDT.MdiParent = this;
-            //}
-            //this.ActivateMdiChild(frmDT);
-            //frmDT.Show();
             var frmDanToc = new DanhMuc.frmDanToc();
             frmDanToc.ShowDialog();
         }
@@ -198,9 +162,9 @@ namespace QLNSTL
             string sql = @"Select QuanTri From NguoiDung Where NguoiDungID = '" + NguoiDungID + "'";
             DataTable dt = Core.Core.GetData(sql);
 
-            if(dt != null && dt.Rows.Count > 0)
+            if (dt != null && dt.Rows.Count > 0)
             {
-                if(dt.Rows[0]["QuanTri"].ToString() == "0" || dt.Rows[0]["QuanTri"].ToString().ToLower() == "false")
+                if (dt.Rows[0]["QuanTri"].ToString() == "0" || dt.Rows[0]["QuanTri"].ToString().ToLower() == "false")
                 {
                     sql = @"Select a.NGuoiDungID, a.NghiepVuID, b.URL 
             from QuyenNguoiDung a join NghiepVu b on b.NghiepVuID = a.NghiepVuID Where NguoiDungID = '" + NguoiDungID + "'";
@@ -231,14 +195,15 @@ namespace QLNSTL
                             }
                         }
                     }
-                }else
+                }
+                else
                 {
                     rbpHeThong.Visible = true;
                     rbpDanhMuc.Visible = true;
                     rbpTienLuong.Visible = true;
                     tbpNhanSu.Visible = true;
                     rbpThongKeBaoCao.Visible = true;
-                }   
+                }
             }
         }
 
@@ -332,8 +297,8 @@ namespace QLNSTL
 
         private void btnLogOut_ItemClick(object sender, ItemClickEventArgs e)
         {
-            var check = MessageBox.Show("Bạn có muốn đăng xuất ra khỏi hệ thống hay không?"," Thông báo ", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if(check == DialogResult.Yes)
+            var check = MessageBox.Show("Bạn có muốn đăng xuất ra khỏi hệ thống hay không?", " Thông báo ", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (check == DialogResult.Yes)
             {
                 // log out
                 this.Hide();

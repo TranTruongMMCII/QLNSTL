@@ -68,5 +68,13 @@ namespace QLNSTL.HeThong
             txtTenDangNhap.Focus();
 
         }
+
+        private void txtMatKhau_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                btnDangNhap_Click(sender, e);
+            }
+        }
     }
 }
