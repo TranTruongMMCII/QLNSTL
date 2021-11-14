@@ -31,21 +31,23 @@ namespace QLNSTL.NghiepVu
             {
 
                 string time = dtpThang.Value.Year.ToString() + dtpThang.Value.Month.ToString("D2");
+                Console.WriteLine(time);
                 string sql = @"select a.NhanVienID, a.MaNV, a.TenNV, b.TamUng, b.ThangTamUng, c.NgayCongChuan, c.ThangKeLuong,
                                 c.TrangThai, c.ChiTietBanKeLuongID, c.ThueThuNhapCaNhan, c.NgayTinhLuong, f.TienLuongCung, f.PhuCap*f.TienLuongCung/100 as PhuCap, g.HieuSuat,
                                 f.TienLuongCung * g.HieuSuat * (Round((CONVERT(float, c.NgayTinhLuong)/CONVERT(float,c.NgayCongChuan)),2)) TongLuong,
                                 f.TienLuongCung * g.HieuSuat * (Round((CONVERT(float, c.NgayTinhLuong)/CONVERT(float,c.NgayCongChuan)),2) ) - b.TamUng ThucLinh 
                             From NhanVien a 
-                            inner join ChiTietTamUng b on a.NhanVienID = b.NhanVienID and b.ThangTamUng = '" + time + @"'
-                            inner join NhanVienChucDanh d on a.NhanVienID = d.NhanVienID
-                            inner join LuongChucDanh f on f.ChucDanhID = d.ChucDanhID
-                            inner join DanhGiaHieuSuat g on g.NhanVienID = a.NhanVienID and g.Thang = '" + time + @"'
+                            left join ChiTietTamUng b on a.NhanVienID = b.NhanVienID and b.ThangTamUng = '" + time + @"'
+                            left join NhanVienChucDanh d on a.NhanVienID = d.NhanVienID
+                            left join LuongChucDanh f on f.ChucDanhID = d.ChucDanhID
+                            left join DanhGiaHieuSuat g on g.NhanVienID = a.NhanVienID and g.Thang = '" + time + @"'
                             left join ChiTietBanKeLuong c on c.NhanVienID = a.NhanVienID and  c.ThangKeLuong = '" + time + "'";
                 DataTable dt = Core.Core.GetData(sql);
                 bindingSource1.DataSource = dt;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                Console.WriteLine(ex.Message);
                 MessageBox.Show("Lỗi không tính được lương!");
             }
 

@@ -114,7 +114,7 @@ namespace QLNSTL.NghiepVu
         {
             if (kt == 1)
             {
-                if(cmbNhanVien.SelectedValue.ToString() != "")
+                if(cmbNhanVien.SelectedValue.ToString() == "")
                 {
                     MessageBox.Show("Không đc phép nhập trùng");
                 }

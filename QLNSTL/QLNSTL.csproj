@@ -732,6 +732,8 @@
     <Content Include="Image\icons8-degree-100.png" />
     <Content Include="Image\icons8-sack-of-money-100.png" />
     <Content Include="Image\icons8-skyscrapers-40.png" />
+    <None Include="Resources\outline_lock_black_24dp.png" />
+    <None Include="Resources\outline_lock_open_black_24dp.png" />
     <None Include="Image\outline_manage_accounts_black_24dp.png" />
     <Content Include="Image\vnpt.png" />
     <None Include="Resources\btnBangCap.LargeGlyph.png" />

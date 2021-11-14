@@ -498,9 +498,10 @@
             // 
             // btnBCDanhGiaNV
             // 
-            this.btnBCDanhGiaNV.Caption = "Đánh Giá Nhân Viên";
+            this.btnBCDanhGiaNV.Caption = "";
             this.btnBCDanhGiaNV.Id = 40;
-            this.btnBCDanhGiaNV.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnBCDanhGiaNV.LargeGlyph")));
+            this.btnBCDanhGiaNV.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
+            this.btnBCDanhGiaNV.LargeGlyph = null;
             this.btnBCDanhGiaNV.Name = "btnBCDanhGiaNV";
             this.btnBCDanhGiaNV.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnBCDanhGiaNV_ItemClick);
             // 

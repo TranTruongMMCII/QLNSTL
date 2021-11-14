@@ -14,6 +14,7 @@ namespace QLNSTL.NghiepVu
 {
     public partial class frmChamCong : Form
     {
+        System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMainForm));
         public frmChamCong()
         {
             InitializeComponent();
@@ -251,13 +252,11 @@ namespace QLNSTL.NghiepVu
             // Fill a cell
             if (e.CellValue != null && e.CellValue.ToString().Trim() != "" && Convert.ToInt32(e.CellValue) == 2)
             {
-                Image image = Image.FromFile("c:\\lock.png");
-                e.Graphics.DrawImage(image, new Point(e.Bounds.Location.X + 35, e.Bounds.Location.Y));
+                e.Graphics.DrawImage(((System.Drawing.Bitmap)(resources.GetObject("outline_lock_black_24dp"))), new Point(e.Bounds.Location.X + 35, e.Bounds.Location.Y));
             }
             if (e.CellValue != null && e.CellValue.ToString().Trim() != "" && Convert.ToInt32(e.CellValue) == 1)
             {
-                Image image = Image.FromFile("c:\\unlock.png");
-                e.Graphics.DrawImage(image, new Point(e.Bounds.Location.X + 35, e.Bounds.Location.Y));
+                e.Graphics.DrawImage(((System.Drawing.Bitmap)(resources.GetObject("outline_lock_open_black_24dp"))), new Point(e.Bounds.Location.X + 35, e.Bounds.Location.Y));
             }
         }
     }
