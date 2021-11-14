@@ -20,17 +20,21 @@ namespace QLNSTL.BaoCao
         {
             try
             {
+                this.cmbBoPhan.SelectedIndex = 0;
+                this.cmbLoaiQuyetDinh.SelectedIndex = 0;
 
-                BaoCaoKhenThuongKyLuat reports = new BaoCaoKhenThuongKyLuat(cmbBoPhan.Text, cmbBoPhan.SelectedValue.ToString(), cmbLoaiQuyetDinh.Text, cmbLoaiQuyetDinh.SelectedValue.ToString());
-                
-                reports.Parameters["BoPhanID"].Value = cmbBoPhan.SelectedValue.ToString();
-                reports.Parameters["LoaiQuyetDinhID"].Value = cmbLoaiQuyetDinh.SelectedValue.ToString();
+                BaoCaoKhenThuongKyLuat reports = new BaoCaoKhenThuongKyLuat(cmbBoPhan.Text,
+                    Convert.ToString(((DataRowView)cmbBoPhan.SelectedItem).Row["BoPhanID"]), cmbLoaiQuyetDinh.Text,
+                    Convert.ToString(((DataRowView)cmbLoaiQuyetDinh.SelectedItem).Row["LoaiQuyetDinhID"]));
+
+                reports.Parameters["BoPhanID"].Value = Convert.ToString(((DataRowView)cmbBoPhan.SelectedItem).Row["BoPhanID"]);
+                reports.Parameters["LoaiQuyetDinhID"].Value = Convert.ToString(((DataRowView)cmbLoaiQuyetDinh.SelectedItem).Row["LoaiQuyetDinhID"]);
                 documentViewer1.DocumentSource = reports;
                 reports.CreateDocument();
             }
-            catch (Exception)
+            catch (Exception e)
             {
-
+                Console.WriteLine(e.Message);
             }
         }
 

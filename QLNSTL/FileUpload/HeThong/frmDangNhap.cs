@@ -26,6 +26,7 @@ namespace QLNSTL.HeThong
             hoi = MessageBox.Show("Bạn có muốn thoát không?", "Thông báo!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (hoi == DialogResult.Yes)
             this.Close();
+            Environment.Exit(0);
         }
 
 

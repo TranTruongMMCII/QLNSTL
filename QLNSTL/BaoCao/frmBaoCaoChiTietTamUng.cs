@@ -20,6 +20,8 @@ namespace QLNSTL.BaoCao
         {
             try
             {
+                this.cmbTenBoPhan.SelectedIndex = 0;
+                this.cmbTenLoaiTamUng.SelectedIndex = 0;
 
                 BaoCaoChiTietTamUng reports = new BaoCaoChiTietTamUng(cmbTenBoPhan.Text, cmbTenBoPhan.SelectedValue.ToString(), cmbTenLoaiTamUng.Text, cmbTenLoaiTamUng.SelectedValue.ToString());
 

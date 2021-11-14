@@ -29,22 +29,24 @@ namespace QLNSTL.BaoCao
             string[] src;
             src = dt
                      .AsEnumerable()
-                     .Select<System.Data.DataRow, String>(x => x.Field<String>("BoPhanID"))
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenBoPhan"))
                      .ToArray();
             data.AddRange(src);
             this.cbbDonVi.DroppedDown = true;
             this.cbbDonVi.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
             this.cbbDonVi.AutoCompleteSource = AutoCompleteSource.ListItems;
             cbbDonVi.AutoCompleteCustomSource = data;
-
+            this.cbbDonVi.SelectedIndex = 0;
             LayDanhSachNV();
         }
 
         public void LayDanhSachNV()
         {
+            this.cbbDonVi.SelectedIndex = 0;
+            string s = Convert.ToString(((DataRowView)cbbDonVi.SelectedItem).Row["BoPhanID"]);
             string sql = @"Select distinct a.NhanVienID, a.TenNV 
                     from NhanVien a join NhanVienBoPhan b on b.NhanVienID = a.NhanVienID
-                    Where b.BoPhanID = " + cbbDonVi.SelectedValue + @"
+                    Where b.BoPhanID = " + s + @"
                     Order by a.TenNV";
             DataTable dt = Core.Core.GetData(sql);
 
@@ -55,7 +57,7 @@ namespace QLNSTL.BaoCao
             string[] src;
             src = dt
                      .AsEnumerable()
-                     .Select<System.Data.DataRow, String>(x => x.Field<String>("NhanVienID"))
+                     .Select<System.Data.DataRow, String>(x => x.Field<String>("TenNV"))
                      .ToArray();
             data.AddRange(src);
             this.cbbNhanVien.DroppedDown = true;
@@ -74,6 +76,7 @@ namespace QLNSTL.BaoCao
         {
             try
             {
+                string s = Convert.ToString(((DataRowView)cbbNhanVien.SelectedItem).Row["NhanVienID"]);
                 string sql = @"select a.TenNV, a.DiaChi, a.Email, a.MaNV, a.NgaySinh, a.SDT, b.ImagePath,
                                     a.SoCMND, b.NgayVaoLam, c.TenDanToc, d.TenBangCap, e.TenCCNN, 
                                     f.TenCCTH, g.TenTinhThanh, h.TenTonGiao, i.GioiTinh from NhanVien a 
@@ -85,15 +88,16 @@ namespace QLNSTL.BaoCao
                                 inner join TinhThanh g on b.TinhThanhID = g.TinhThanhID
                                 inner join TonGiao h on b.TonGiaoID = h.TonGiaoID
                                 inner join GioiTinh i on i.GioiTinhID = a.GioiTinhID
-                                where a.NhanVienID = " + cbbNhanVien.SelectedValue + @"";
+                                where a.NhanVienID = " + s + @"";
 
                 DataTable dt = Core.Core.GetData(sql);
                 if(dt != null && dt.Rows.Count > 0)
                 {
-
+                    this.cbbDonVi.SelectedIndex = 0;
+                    this.cbbNhanVien.SelectedIndex = 0;
                     BaoCaoHoSoMotNV reports = new BaoCaoHoSoMotNV(dt);
-                    reports.Parameters["BoPhanID"].Value = cbbDonVi.SelectedValue.ToString();
-                    reports.Parameters["NhanVienID"].Value = cbbNhanVien.SelectedValue.ToString();
+                    reports.Parameters["BoPhanID"].Value = Convert.ToString(((DataRowView)cbbDonVi.SelectedItem).Row["BoPhanID"]);
+                    reports.Parameters["NhanVienID"].Value = Convert.ToString(((DataRowView)cbbNhanVien.SelectedItem).Row["NhanVienID"]);
                     documentViewer1.DocumentSource = reports;
                     reports.CreateDocument();
                 }else

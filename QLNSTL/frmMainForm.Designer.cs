@@ -70,7 +70,9 @@
             this.btnBCSoLuongLD = new DevExpress.XtraBars.BarButtonItem();
             this.btnBCKTKL = new DevExpress.XtraBars.BarButtonItem();
             this.btnNgayNP = new DevExpress.XtraBars.BarButtonItem();
+            this.btnBCDanhGiaNV = new DevExpress.XtraBars.BarButtonItem();
             this.btnBCHopDongHetHan = new DevExpress.XtraBars.BarButtonItem();
+            this.btnBCBangCapChungChi = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem12 = new DevExpress.XtraBars.BarButtonItem();
             this.btnBKL = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
@@ -78,12 +80,11 @@
             this.btnDangNhap = new DevExpress.XtraBars.BarButtonItem();
             this.btnLogOut = new DevExpress.XtraBars.BarButtonItem();
             this.btnHopDong = new DevExpress.XtraBars.BarButtonItem();
-            this.btnMauHopDong = new DevExpress.XtraBars.BarButtonItem();
-            this.btnHoSoMotNV = new DevExpress.XtraBars.BarButtonItem();
             this.rbpHeThong = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.rpgBaoMat = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.rpgNguoiDung = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.rpgDuLieu = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.rpgGiaoDien = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.rbpDanhMuc = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.rpgThongTin = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.rpgBangCapChungChi = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
@@ -98,18 +99,17 @@
             this.rbpThongKeBaoCao = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.rpgTKBC = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonStatusBar = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
-            this.btnBCDanhGiaNV = new DevExpress.XtraBars.BarButtonItem();
             this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
             this.xtraTabbedMdiManager1 = new DevExpress.XtraTabbedMdi.XtraTabbedMdiManager(this.components);
+            this.btnMauHopDong = new DevExpress.XtraBars.BarButtonItem();
+            this.btnHoSoMotNV = new DevExpress.XtraBars.BarButtonItem();
             ((System.ComponentModel.ISupportInitialize)(this.ribbon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabbedMdiManager1)).BeginInit();
             this.SuspendLayout();
             // 
             // ribbon
             // 
-            // 
-            // 
-            // 
+            this.ribbon.ApplicationIcon = ((System.Drawing.Bitmap)(resources.GetObject("outline_manage_accounts_black_24dp")));
             this.ribbon.ExpandCollapseItem.Id = 0;
             this.ribbon.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
             this.ribbon.ExpandCollapseItem,
@@ -152,7 +152,9 @@
             this.btnBCSoLuongLD,
             this.btnBCKTKL,
             this.btnNgayNP,
+            this.btnBCDanhGiaNV,
             this.btnBCHopDongHetHan,
+            this.btnBCBangCapChungChi,
             this.barButtonItem12,
             this.btnBKL,
             this.barButtonItem1,
@@ -171,8 +173,7 @@
             this.tbpNhanSu,
             this.rbpTienLuong,
             this.rbpThongKeBaoCao});
-            this.ribbon.ShowApplicationButton = DevExpress.Utils.DefaultBoolean.False;
-            this.ribbon.Size = new System.Drawing.Size(1009, 185);
+            this.ribbon.Size = new System.Drawing.Size(1009, 149);
             this.ribbon.StatusBar = this.ribbonStatusBar;
             // 
             // btnKetThuc
@@ -495,6 +496,14 @@
             this.btnNgayNP.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnNgayNP.LargeGlyph")));
             this.btnNgayNP.Name = "btnNgayNP";
             // 
+            // btnBCDanhGiaNV
+            // 
+            this.btnBCDanhGiaNV.Caption = "Đánh Giá Nhân Viên";
+            this.btnBCDanhGiaNV.Id = 40;
+            this.btnBCDanhGiaNV.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnBCDanhGiaNV.LargeGlyph")));
+            this.btnBCDanhGiaNV.Name = "btnBCDanhGiaNV";
+            this.btnBCDanhGiaNV.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnBCDanhGiaNV_ItemClick);
+            // 
             // btnBCHopDongHetHan
             // 
             this.btnBCHopDongHetHan.Caption = "Hợp Đồng Sắp Hết Hạn";
@@ -503,6 +512,14 @@
             this.btnBCHopDongHetHan.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnBCHopDongHetHan.LargeGlyph")));
             this.btnBCHopDongHetHan.Name = "btnBCHopDongHetHan";
             this.btnBCHopDongHetHan.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnBCHopDongHetHan_ItemClick);
+            // 
+            // btnBCBangCapChungChi
+            // 
+            this.btnBCBangCapChungChi.Caption = "";
+            this.btnBCBangCapChungChi.Id = 42;
+            this.btnBCBangCapChungChi.LargeGlyph = null;
+            this.btnBCBangCapChungChi.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
+            this.btnBCBangCapChungChi.Name = "btnBCBangCapChungChi";
             // 
             // barButtonItem12
             // 
@@ -557,6 +574,182 @@
             this.btnHopDong.Name = "btnHopDong";
             this.btnHopDong.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnHopDong_ItemClick);
             // 
+            // rbpHeThong
+            // 
+            this.rbpHeThong.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.rpgBaoMat,
+            this.rpgNguoiDung,
+            this.rpgDuLieu,
+            this.rpgGiaoDien});
+            this.rbpHeThong.Image = ((System.Drawing.Image)(resources.GetObject("rbpHeThong.Image")));
+            this.rbpHeThong.Name = "rbpHeThong";
+            this.rbpHeThong.Text = "Hệ Thống";
+            this.rbpHeThong.Visible = false;
+            // 
+            // rpgBaoMat
+            // 
+            this.rpgBaoMat.ItemLinks.Add(this.btnDoiMK);
+            this.rpgBaoMat.Name = "rpgBaoMat";
+            this.rpgBaoMat.Text = "Bảo Mật";
+            // 
+            // rpgNguoiDung
+            // 
+            this.rpgNguoiDung.ItemLinks.Add(this.btnNguoiDung);
+            this.rpgNguoiDung.ItemLinks.Add(this.btnPhanQuyen);
+            this.rpgNguoiDung.Name = "rpgNguoiDung";
+            this.rpgNguoiDung.Text = "Người Dùng";
+            // 
+            // rpgDuLieu
+            // 
+            this.rpgDuLieu.ItemLinks.Add(this.btnPhucHoi);
+            this.rpgDuLieu.ItemLinks.Add(this.btnSaoLuu);
+            this.rpgDuLieu.Name = "rpgDuLieu";
+            this.rpgDuLieu.Text = "Dữ Liệu";
+            // 
+            // rpgGiaoDien
+            // 
+            this.rpgGiaoDien.ItemLinks.Add(this.skinRibbonGalleryBarItem1);
+            this.rpgGiaoDien.Name = "rpgGiaoDien";
+            this.rpgGiaoDien.Text = "";
+            this.rpgGiaoDien.Visible = false;
+            // 
+            // rbpDanhMuc
+            // 
+            this.rbpDanhMuc.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.rpgThongTin,
+            this.rpgBangCapChungChi,
+            this.rpgDanhMuc});
+            this.rbpDanhMuc.Image = ((System.Drawing.Image)(resources.GetObject("rbpDanhMuc.Image")));
+            this.rbpDanhMuc.Name = "rbpDanhMuc";
+            this.rbpDanhMuc.Text = "Quản Lý Danh Mục";
+            this.rbpDanhMuc.Visible = false;
+            // 
+            // rpgThongTin
+            // 
+            this.rpgThongTin.ItemLinks.Add(this.btnDanToc);
+            this.rpgThongTin.ItemLinks.Add(this.btnTonGiao);
+            this.rpgThongTin.ItemLinks.Add(this.btnTinhThanh);
+            this.rpgThongTin.ItemLinks.Add(this.btnBoPhan);
+            this.rpgThongTin.ItemLinks.Add(this.btnTamUng);
+            this.rpgThongTin.ItemLinks.Add(this.btnMoiQuanHe);
+            this.rpgThongTin.Name = "rpgThongTin";
+            this.rpgThongTin.Text = "Thông Tin";
+            // 
+            // rpgBangCapChungChi
+            // 
+            this.rpgBangCapChungChi.ItemLinks.Add(this.btnBangCap);
+            this.rpgBangCapChungChi.ItemLinks.Add(this.btnCCNgoaiNgu);
+            this.rpgBangCapChungChi.ItemLinks.Add(this.btnCCTinHoc);
+            this.rpgBangCapChungChi.Name = "rpgBangCapChungChi";
+            this.rpgBangCapChungChi.Text = "Bằng Cấp - Chứng Chỉ";
+            // 
+            // rpgDanhMuc
+            // 
+            this.rpgDanhMuc.ItemLinks.Add(this.btnLoaiHopDong);
+            this.rpgDanhMuc.ItemLinks.Add(this.btnLoaiQuyetDinh);
+            this.rpgDanhMuc.Name = "rpgDanhMuc";
+            this.rpgDanhMuc.Text = "Danh Mục";
+            // 
+            // tbpNhanSu
+            // 
+            this.tbpNhanSu.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.rpgHoSoNhanSu,
+            this.rpgBoPhanChucDanh,
+            this.ribbonPageGroup1});
+            this.tbpNhanSu.Image = ((System.Drawing.Image)(resources.GetObject("tbpNhanSu.Image")));
+            this.tbpNhanSu.Name = "tbpNhanSu";
+            this.tbpNhanSu.Text = "Quản Lý Nhân Sự";
+            this.tbpNhanSu.Visible = false;
+            // 
+            // rpgHoSoNhanSu
+            // 
+            this.rpgHoSoNhanSu.ItemLinks.Add(this.btnNhanVien);
+            this.rpgHoSoNhanSu.ItemLinks.Add(this.btnHoSoNhanVien);
+            this.rpgHoSoNhanSu.ItemLinks.Add(this.btnThanNhan);
+            this.rpgHoSoNhanSu.Name = "rpgHoSoNhanSu";
+            this.rpgHoSoNhanSu.Text = "Thông Tin Nhân Viên";
+            // 
+            // rpgBoPhanChucDanh
+            // 
+            this.rpgBoPhanChucDanh.ItemLinks.Add(this.btnNhanVienChucDanh);
+            this.rpgBoPhanChucDanh.ItemLinks.Add(this.btnNhanVienBP);
+            this.rpgBoPhanChucDanh.Name = "rpgBoPhanChucDanh";
+            this.rpgBoPhanChucDanh.Text = "Bộ Phận -Chức Danh";
+            // 
+            // ribbonPageGroup1
+            // 
+            this.ribbonPageGroup1.ItemLinks.Add(this.btnHopDong);
+            this.ribbonPageGroup1.ItemLinks.Add(this.btnKhenThuongKyLuat);
+            this.ribbonPageGroup1.ItemLinks.Add(this.btnDanhGia);
+            this.ribbonPageGroup1.Name = "ribbonPageGroup1";
+            this.ribbonPageGroup1.Text = "Thông Tin Nhân Sự";
+            // 
+            // rbpTienLuong
+            // 
+            this.rbpTienLuong.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.rpgTienLuong,
+            this.rpgChamCong});
+            this.rbpTienLuong.Image = ((System.Drawing.Image)(resources.GetObject("rbpTienLuong.Image")));
+            this.rbpTienLuong.Name = "rbpTienLuong";
+            this.rbpTienLuong.Text = "Quản Lý Tiền Lương";
+            this.rbpTienLuong.Visible = false;
+            // 
+            // rpgTienLuong
+            // 
+            this.rpgTienLuong.ItemLinks.Add(this.btnLuongChucDanh);
+            this.rpgTienLuong.ItemLinks.Add(this.btnQLTamUng);
+            this.rpgTienLuong.Name = "rpgTienLuong";
+            this.rpgTienLuong.Text = "Tiền Lương";
+            // 
+            // rpgChamCong
+            // 
+            this.rpgChamCong.ItemLinks.Add(this.btnChamCong);
+            this.rpgChamCong.ItemLinks.Add(this.btnBKL);
+            this.rpgChamCong.Name = "rpgChamCong";
+            this.rpgChamCong.Text = "Chấm Công";
+            // 
+            // rbpThongKeBaoCao
+            // 
+            this.rbpThongKeBaoCao.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.rpgTKBC});
+            this.rbpThongKeBaoCao.Image = ((System.Drawing.Image)(resources.GetObject("rbpThongKeBaoCao.Image")));
+            this.rbpThongKeBaoCao.Name = "rbpThongKeBaoCao";
+            this.rbpThongKeBaoCao.Text = "Thống Kê-Báo Cáo";
+            this.rbpThongKeBaoCao.Visible = false;
+            // 
+            // rpgTKBC
+            // 
+            this.rpgTKBC.ItemLinks.Add(this.btnBCTienLuong);
+            this.rpgTKBC.ItemLinks.Add(this.btnBCBangChamCong);
+            this.rpgTKBC.ItemLinks.Add(this.btnBCHSNhanVien);
+            this.rpgTKBC.ItemLinks.Add(this.btnBCTamUngHoanUng);
+            this.rpgTKBC.ItemLinks.Add(this.btnBCSoLuongLD);
+            this.rpgTKBC.ItemLinks.Add(this.btnBCKTKL);
+            this.rpgTKBC.ItemLinks.Add(this.btnBCDanhGiaNV);
+            this.rpgTKBC.ItemLinks.Add(this.btnBCHopDongHetHan);
+            this.rpgTKBC.ItemLinks.Add(this.btnBCBangCapChungChi);
+            this.rpgTKBC.ItemLinks.Add(this.btnMauHopDong);
+            this.rpgTKBC.ItemLinks.Add(this.btnHoSoMotNV);
+            this.rpgTKBC.Name = "rpgTKBC";
+            this.rpgTKBC.Text = "Quản Lý Thống Kê Báo Cáo";
+            // 
+            // ribbonStatusBar
+            // 
+            this.ribbonStatusBar.ItemLinks.Add(this.btnLogOut);
+            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 533);
+            this.ribbonStatusBar.Name = "ribbonStatusBar";
+            this.ribbonStatusBar.Ribbon = this.ribbon;
+            this.ribbonStatusBar.Size = new System.Drawing.Size(1009, 21);
+            // 
+            // defaultLookAndFeel1
+            // 
+            this.defaultLookAndFeel1.LookAndFeel.SkinName = "Office 2016 Colorful";
+            // 
+            // xtraTabbedMdiManager1
+            // 
+            this.xtraTabbedMdiManager1.ClosePageButtonShowMode = DevExpress.XtraTab.ClosePageButtonShowMode.InAllTabPageHeaders;
+            this.xtraTabbedMdiManager1.MdiParent = this;
+            // 
             // btnMauHopDong
             // 
             this.btnMauHopDong.Caption = "Mẫu hợp đồng";
@@ -575,146 +768,10 @@
             this.btnHoSoMotNV.Name = "btnHoSoMotNV";
             this.btnHoSoMotNV.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnHoSoMotNV_ItemClick);
             // 
-            // rbpHeThong
-            // 
-            this.rbpHeThong.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.rpgBaoMat,
-            this.rpgNguoiDung,
-            this.rpgDuLieu});
-            this.rbpHeThong.Image = ((System.Drawing.Image)(resources.GetObject("rbpHeThong.Image")));
-            this.rbpHeThong.Name = "rbpHeThong";
-            this.rbpHeThong.Text = "Hệ Thống";
-            this.rbpHeThong.Visible = false;
-            // 
-            // rpgBaoMat
-            // 
-            this.rpgBaoMat.Name = "rpgBaoMat";
-            this.rpgBaoMat.Text = "Bảo Mật";
-            // 
-            // rpgNguoiDung
-            // 
-            this.rpgNguoiDung.Name = "rpgNguoiDung";
-            this.rpgNguoiDung.Text = "Người Dùng";
-            // 
-            // rpgDuLieu
-            // 
-            this.rpgDuLieu.Name = "rpgDuLieu";
-            this.rpgDuLieu.Text = "Dữ Liệu";
-            // 
-            // rbpDanhMuc
-            // 
-            this.rbpDanhMuc.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.rpgThongTin,
-            this.rpgBangCapChungChi,
-            this.rpgDanhMuc});
-            this.rbpDanhMuc.Image = ((System.Drawing.Image)(resources.GetObject("rbpDanhMuc.Image")));
-            this.rbpDanhMuc.Name = "rbpDanhMuc";
-            this.rbpDanhMuc.Text = "Quản Lý Danh Mục";
-            this.rbpDanhMuc.Visible = false;
-            // 
-            // rpgThongTin
-            // 
-            this.rpgThongTin.Name = "rpgThongTin";
-            this.rpgThongTin.Text = "Thông Tin";
-            // 
-            // rpgBangCapChungChi
-            // 
-            this.rpgBangCapChungChi.Name = "rpgBangCapChungChi";
-            this.rpgBangCapChungChi.Text = "Bằng Cấp - Chứng Chỉ";
-            // 
-            // rpgDanhMuc
-            // 
-            this.rpgDanhMuc.Name = "rpgDanhMuc";
-            this.rpgDanhMuc.Text = "Danh Mục";
-            // 
-            // tbpNhanSu
-            // 
-            this.tbpNhanSu.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.rpgHoSoNhanSu,
-            this.rpgBoPhanChucDanh,
-            this.ribbonPageGroup1});
-            this.tbpNhanSu.Image = ((System.Drawing.Image)(resources.GetObject("tbpNhanSu.Image")));
-            this.tbpNhanSu.Name = "tbpNhanSu";
-            this.tbpNhanSu.Text = "Quản Lý Nhân Sự";
-            this.tbpNhanSu.Visible = false;
-            // 
-            // rpgHoSoNhanSu
-            // 
-            this.rpgHoSoNhanSu.Name = "rpgHoSoNhanSu";
-            this.rpgHoSoNhanSu.Text = "Thông Tin Nhân Viên";
-            // 
-            // rpgBoPhanChucDanh
-            // 
-            this.rpgBoPhanChucDanh.Name = "rpgBoPhanChucDanh";
-            this.rpgBoPhanChucDanh.Text = "Bộ Phận -Chức Danh";
-            // 
-            // ribbonPageGroup1
-            // 
-            this.ribbonPageGroup1.Name = "ribbonPageGroup1";
-            this.ribbonPageGroup1.Text = "Thông Tin Nhân Sự";
-            // 
-            // rbpTienLuong
-            // 
-            this.rbpTienLuong.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.rpgTienLuong,
-            this.rpgChamCong});
-            this.rbpTienLuong.Image = ((System.Drawing.Image)(resources.GetObject("rbpTienLuong.Image")));
-            this.rbpTienLuong.Name = "rbpTienLuong";
-            this.rbpTienLuong.Text = "Quản Lý Tiền Lương";
-            this.rbpTienLuong.Visible = false;
-            // 
-            // rpgTienLuong
-            // 
-            this.rpgTienLuong.Name = "rpgTienLuong";
-            this.rpgTienLuong.Text = "Tiền Lương";
-            // 
-            // rpgChamCong
-            // 
-            this.rpgChamCong.Name = "rpgChamCong";
-            this.rpgChamCong.Text = "Chấm Công";
-            // 
-            // rbpThongKeBaoCao
-            // 
-            this.rbpThongKeBaoCao.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.rpgTKBC});
-            this.rbpThongKeBaoCao.Image = ((System.Drawing.Image)(resources.GetObject("rbpThongKeBaoCao.Image")));
-            this.rbpThongKeBaoCao.Name = "rbpThongKeBaoCao";
-            this.rbpThongKeBaoCao.Text = "Thống Kê-Báo Cáo";
-            this.rbpThongKeBaoCao.Visible = false;
-            // 
-            // rpgTKBC
-            // 
-            this.rpgTKBC.Name = "rpgTKBC";
-            this.rpgTKBC.Text = "Quản Lý Thống Kê Báo Cáo";
-            // 
-            // ribbonStatusBar
-            // 
-            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 526);
-            this.ribbonStatusBar.Name = "ribbonStatusBar";
-            this.ribbonStatusBar.Ribbon = this.ribbon;
-            this.ribbonStatusBar.Size = new System.Drawing.Size(1009, 28);
-            // 
-            // btnBCDanhGiaNV
-            // 
-            this.btnBCDanhGiaNV.Caption = "Đánh Giá Nhân Viên";
-            this.btnBCDanhGiaNV.Id = 40;
-            this.btnBCDanhGiaNV.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnBCDanhGiaNV.LargeGlyph")));
-            this.btnBCDanhGiaNV.Name = "btnBCDanhGiaNV";
-            this.btnBCDanhGiaNV.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnBCDanhGiaNV_ItemClick);
-            // 
-            // defaultLookAndFeel1
-            // 
-            this.defaultLookAndFeel1.LookAndFeel.SkinName = "Office 2016 Colorful";
-            // 
-            // xtraTabbedMdiManager1
-            // 
-            this.xtraTabbedMdiManager1.ClosePageButtonShowMode = DevExpress.XtraTab.ClosePageButtonShowMode.InAllTabPageHeaders;
-            this.xtraTabbedMdiManager1.MdiParent = this;
-            // 
             // frmMainForm
             // 
             this.Appearance.Options.UseFont = true;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1009, 554);
             this.Controls.Add(this.ribbonStatusBar);
@@ -793,6 +850,7 @@
         private DevExpress.XtraBars.BarButtonItem btnNgayNP;
         private DevExpress.XtraBars.BarButtonItem btnBCDanhGiaNV;
         private DevExpress.XtraBars.BarButtonItem btnBCHopDongHetHan;
+        private DevExpress.XtraBars.BarButtonItem btnBCBangCapChungChi;
         private DevExpress.XtraBars.BarButtonItem barButtonItem12;
         private DevExpress.XtraBars.BarButtonItem btnBKL;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup rpgTKBC;
@@ -800,6 +858,7 @@
         private DevExpress.XtraBars.BarButtonItem barButtonItem1;
         private DevExpress.XtraBars.SkinRibbonGalleryBarItem skinRibbonGalleryBarItem1;
         private DevExpress.XtraBars.BarButtonItem btnDangNhap;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup rpgGiaoDien;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup rpgBangCapChungChi;
         private DevExpress.XtraBars.BarButtonItem btnLogOut;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup rpgDanhMuc;

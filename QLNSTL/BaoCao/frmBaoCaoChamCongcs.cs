@@ -20,6 +20,7 @@ namespace QLNSTL.BaoCao
         {
             try
             {
+                this.cmbTenBoPhan.SelectedIndex = 0;
                 BaoCaoChamCong reports = new BaoCaoChamCong(cmbTenBoPhan.Text, cmbTenBoPhan.SelectedValue.ToString(), dtpThang.Value.ToString("MM/yyyy"));
                 reports.Parameters["BoPhanID"].Value = cmbTenBoPhan.SelectedValue.ToString();
                 reports.Parameters["Thang"].Value = dtpThang.Value.ToString("yyyyMM");

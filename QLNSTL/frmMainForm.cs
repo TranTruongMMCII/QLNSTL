@@ -325,5 +325,10 @@ namespace QLNSTL
             var frmHoSoMotNV = new BaoCao.frmBaoCaoHoSoMotNV();
             frmHoSoMotNV.ShowDialog();
         }
+
+        private void ribbon_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

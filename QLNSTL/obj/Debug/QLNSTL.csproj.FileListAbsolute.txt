@@ -169,3 +169,4 @@ D:\Draft\New folder\C#\QLNSTL\QLNSTL\obj\Debug\QLNSTL.exe.licenses
 D:\Draft\New folder\C#\QLNSTL\QLNSTL\obj\Debug\QLNSTL.csproj.CoreCompileInputs.cache
 D:\Draft\New folder\C#\QLNSTL\QLNSTL\obj\Debug\QLNSTL.exe
 D:\Draft\New folder\C#\QLNSTL\QLNSTL\obj\Debug\QLNSTL.pdb
+D:\Draft\New folder\C#\QLNSTL\QLNSTL\obj\Debug\QLNSTL.csproj.AssemblyReference.cache
