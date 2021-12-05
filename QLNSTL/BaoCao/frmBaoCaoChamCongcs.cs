@@ -22,7 +22,7 @@ namespace QLNSTL.BaoCao
             {
                 this.cmbTenBoPhan.SelectedIndex = 0;
                 BaoCaoChamCong reports = new BaoCaoChamCong(cmbTenBoPhan.Text, cmbTenBoPhan.SelectedValue.ToString(), dtpThang.Value.ToString("MM/yyyy"));
-                reports.Parameters["BoPhanID"].Value = cmbTenBoPhan.SelectedValue.ToString();
+                reports.Parameters["BoPhanID"].Value = Convert.ToString(((DataRowView)cmbTenBoPhan.SelectedItem).Row["BoPhanID"]);
                 reports.Parameters["Thang"].Value = dtpThang.Value.ToString("yyyyMM");
                 //reports.Parameters["Nam"].Value = cmbNam.SelectedValue.ToString();
                 documentViewer1.DocumentSource = reports;

@@ -29,7 +29,7 @@ namespace QLNSTL.BaoCao
 
                 BaoCaoLuongHangThang reports = new BaoCaoLuongHangThang(cbbBoPhan.Text, dtpThang.Value.ToString("MM/yyyy"));
 
-                reports.Parameters["BoPhanID"].Value = cbbBoPhan.SelectedValue.ToString();
+                reports.Parameters["BoPhanID"].Value = Convert.ToString(((DataRowView)cbbBoPhan.SelectedItem).Row["BoPhanID"]);
                 reports.Parameters["Thang"].Value = dtpThang.Value.ToString("yyyyMM");
                 reports.Parameters["BHYT"].Value = BHYT;
                 reports.Parameters["BHXH"].Value = BHXH;

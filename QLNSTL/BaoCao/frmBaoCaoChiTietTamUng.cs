@@ -25,8 +25,8 @@ namespace QLNSTL.BaoCao
 
                 BaoCaoChiTietTamUng reports = new BaoCaoChiTietTamUng(cmbTenBoPhan.Text, cmbTenBoPhan.SelectedValue.ToString(), cmbTenLoaiTamUng.Text, cmbTenLoaiTamUng.SelectedValue.ToString());
 
-                reports.Parameters["BoPhanID"].Value = cmbTenBoPhan.SelectedValue.ToString();
-                reports.Parameters["TamUngID"].Value = cmbTenLoaiTamUng.SelectedValue.ToString();
+                reports.Parameters["BoPhanID"].Value = Convert.ToString(((DataRowView)cmbTenBoPhan.SelectedItem).Row["BoPhanID"]);
+                reports.Parameters["TamUngID"].Value = Convert.ToString(((DataRowView)cmbTenLoaiTamUng.SelectedItem).Row["TamUngID"]);
                 documentViewer1.DocumentSource = reports;
                 reports.CreateDocument();
             }

@@ -23,7 +23,7 @@ namespace QLNSTL.BaoCao
             {
 
                 BaoCaoHoSoNV reports = new BaoCaoHoSoNV(cmbDonVi.Text, cmbDonVi.SelectedValue.ToString());
-                reports.Parameters["BoPhanID"].Value = cmbDonVi.SelectedValue.ToString();
+                reports.Parameters["BoPhanID"].Value = Convert.ToString(((DataRowView)cmbDonVi.SelectedItem).Row["BoPhanID"]);
                 documentViewer1.DocumentSource = reports;
                 reports.CreateDocument();
             }catch(Exception)

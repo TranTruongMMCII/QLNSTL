@@ -21,7 +21,7 @@ namespace QLNSTL.BaoCao
             try
             {
                 BaoCaoBangCapChungChi reports = new BaoCaoBangCapChungChi(cmbTenBoPhan.Text, cmbTenBoPhan.SelectedValue.ToString());
-                reports.Parameters["BoPhanID"].Value = cmbTenBoPhan.SelectedValue.ToString();
+                reports.Parameters["BoPhanID"].Value = Convert.ToString(((DataRowView)cmbTenBoPhan.SelectedItem).Row["BoPhanID"]);
                 documentViewer1.DocumentSource = reports;
                 reports.CreateDocument();
             }
